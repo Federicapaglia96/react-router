@@ -20,3 +20,16 @@ h1{
     padding: 20px;
     margin: 20px;
 }
+
+li.navlink{
+   padding:20px;
+}
+
+.navlinklista{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    list-style-type: none;
+}
